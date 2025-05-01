@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Korea (Marco's version)",
-		"leaderName": "Sejong",
+		"leaderName": "José Gervasio Artigas",
 		"adjective": ["Korean"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
@@ -31,7 +31,7 @@
 
 	{
 		"name": "Korea (Fede's version",
-		"leaderName": "Sejong",
+		"leaderName": "Lacalle dou",
 		"adjective": ["Korean"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
@@ -61,22 +61,21 @@
 
 	{
 		"name": "Korea (Bruno's version)",
-		"leaderName": "Sejong",
-		"adjective": ["Korean"],
+		"leaderName": "Yamandú Orsi",
+		"adjective": ["Frenteamplista"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Sejong",
 
-        "startIntroPart1": "Greetings to you, King Sejong the Great, heir of the Choson Dynasty! Prosperity and benevolence towards the common man are the principles of your reign, and made of you the most beloved Korean king. You always aimed to provide a fair and equal society for all your people, and also to favor knowledge and technological discoveries. Your wisdom and intelligence imbued all the Korean society, and the scholars of the Jade Hall developed Korea's first written language, Hangul, sharing further literature and science to the people after centuries of darkness.",
-        "startIntroPart2": "Wise Sejong, will you gift your people with the radiance of harmony and knowledge to dispel the darkness once again? Will your new empire shine through the ages of history?",
+        "startIntroPart1": "Hola, koreano, me llamo Yamandú Orsi. Soy el presidente de la actual república de korea del norte. Dame todos tus bienes y poseciones para que puedas vivir.",
 
         "declaringWar": "Jip-hyun-jun (Hall of Worthies) will no longer tolerate your irksome behavior. We will liberate the citizens under your oppression even with force, and enlighten them!",
 		"attacked": "Foolish, miserable wretch! You will be crushed by this country's magnificent scientific power!",
 		"defeated": "Now the question is who will protect my people. A dark age has come.",
 		"introduction": "Welcome to the palace of Choson, stranger. I am the learned King Sejong, who looks after his great people.",
 
-		"neutralHello": "Hello.",
-		"hateHello": "Oh, it's you",
+		"neutralHello": "Invadime. Por favor. Estoy pendejo",
+		"hateHello": "Invadime",
 		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
 		"outerColor": [27,33,96],
 		"innerColor": [255,0,0],
