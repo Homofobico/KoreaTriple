@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Hwach'a",
+		"name": "Hwach'a del próser",
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Korea (Marco's version)",
@@ -16,7 +16,7 @@
 	},
 
 	{
-		"name": "Hwach'a",
+		"name": "Hwach'a del Cuquito",
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Korea (Fede's version)",
@@ -32,7 +32,7 @@
 	},
 
 	{
-		"name": "Hwach'a",
+		"name": "Hwach'a de los frentistas",
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Korea (Bruno's version)",
@@ -48,7 +48,7 @@
 	},
 
 	{
-		"name": "Turtle Ship",
+		"name": "Turtle Ship del próser",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Korea (Marco's version)",
@@ -64,7 +64,7 @@
 	},
 
 	{
-		"name": "Turtle Ship",
+		"name": "Turtle Ship del cuquito",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Korea (Fede's version)",
@@ -80,7 +80,7 @@
 	},
 
 	{
-		"name": "Turtle Ship",
+		"name": "Turtle Ship del FA",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Korea (Bruno's version)",
